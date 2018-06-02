@@ -10,11 +10,13 @@ cd leanote-downloader
 ```
 // npm
 npm install
+npm start
 ```
 Or:
 ```
 // yarn
 yarn install
+yarn start
 ```
 
 And then,your notes will be cloned into './files'.
