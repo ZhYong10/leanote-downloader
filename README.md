@@ -1,10 +1,6 @@
 # leanote-downloader
 Using NodeJS + pupeteer to download notes in leanote.com.
 
-# Features
-
-
-
 # One minute Quick-start
 
 ```
@@ -20,3 +16,5 @@ Or:
 // yarn
 yarn install
 ```
+
+And then,your notes will be cloned into './files'.
