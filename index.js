@@ -131,8 +131,6 @@ let urls = {
 
     console.log('all finished.')
 
-    debugger;
-
     browser.close()
 })
 ()
