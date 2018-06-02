@@ -7,12 +7,12 @@ const fs = require('fs');
 const path = require('path')
 const puppeteer = require('puppeteer');
 
-let urls = {
+const urls = {
     home: 'https://leanote.com/',
     imageBase: 'https://leanote.com/api/file/getImage?fileId=',
     notebookInfo: 'https://leanote.com/note/listNotes/?notebookId=',
     noteContent: 'https://leanote.com/note/getNoteContent?noteId='
-}
+};
 
 (async () => {
     const browser = await puppeteer.launch({
