@@ -1,5 +1,5 @@
 # leanote-downloader
-Using NodeJS + pupeteer to download notes in leanote.com.
+Using NodeJS + Pupeteer to download notes in leanote.com.
 
 # One minute Quick-start
 
